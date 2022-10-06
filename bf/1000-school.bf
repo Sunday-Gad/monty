@@ -6,7 +6,7 @@
 > -      					Subtract 1 from c1
 ]        					End loop
 
-< .        					Translates the c0 value 72 to "H"!
+< .        					Translates the c0 value 72 to "S"!
 
 > +++						Cell c1 = 3
 
@@ -15,11 +15,11 @@
 > -      					Subtract 1 from c1
 ]        					End loop
 
-< .							Translates the c0 value 111 to "o"!
+< .							Translates the c0 value 111 to "h"!
 
 ---							Substract 3 from c0
 
-.							Translates the c0 value 108 to "l"!
+.							Translates the c0 value 108 to "o"!
 
 > ++						Cell c1 = 2
 
@@ -28,34 +28,14 @@
 > -      					Subtract 1 from c1
 ]
 
-< .							Translates the c0 value 98 to "b"!
+< .							Translates the c0 value 98 to "o"!
 
 +++							Add 3 to c0
 
-.							Translates the c0 value 101 to "e"!
+.							Translates the c0 value 101 to "l"!
 
 > +++						Cell c1 = 3
 
-[        					Start loop
-< ++++						Add 4 to c0
-> -      					Subtract 1 from c1
-]
-
-< +							Add 1 to c0
-
-.							Translates the c0 value 114 to "r"!
-
-++							Add 2 to c0
-
-.							Translates the c0 value 116 to "t"!
-
----- -						Substract 5 from c0
-
-.							Translates the c0 value 111 to "o"!
-
--							Substract 1 from c0
-
-.							Translates the c0 value 110 to "o"!
 
 > ++++ ++++ ++				Add 10 to c1
 
